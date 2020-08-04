@@ -487,15 +487,13 @@ export default [
     {
     nome: 'Ismael Oliveira',
     foto: 'https://avatars1.githubusercontent.com/u/22065160?s=460&u=5d667bd59df5c926cb0942f03207e50c4e1905ba&v=4',
-    nomeDoProjeto: 'KelloFlix',
-    url: 'https://kelloflix.vercel.app/',
+    nomeDoProjeto: 'FEFlix',
+    url: 'https://feflix-two.vercel.app/',
     tags: [
       'front end',
       'api',
       'tecnologia',
-      'animes',
-      'jogos',
-      'filmes',
+      'estudo',
     ],
   },
 ];
